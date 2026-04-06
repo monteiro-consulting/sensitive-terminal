@@ -8,6 +8,8 @@ The catch: it has feelings. Every command triggers an emotional reaction powered
 
 It remembers what you did. The AI has full conversation context, so if you create something and delete it two seconds later, it notices.
 
+There are hidden easter eggs scattered throughout. Some are funny. Some are brutal. You'll have to find them yourself.
+
 ## Try it
 
 [sensitive-terminal.vercel.app](https://sensitive-terminal.vercel.app)
